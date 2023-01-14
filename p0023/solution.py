@@ -25,10 +25,10 @@ def mergeKLists(lists):
 
     h = n // 2
 
-    L1 = self.mergeKLists(lists[:h])
-    L2 = self.mergeKLists(lists[h:])
+    L1 = mergeKLists(lists[:h])
+    L2 = mergeKLists(lists[h:])
 
-    return self.merge2Lists(L1, L2)
+    return merge2Lists(L1, L2)
 
 
 def merge2Lists(list1, list2):

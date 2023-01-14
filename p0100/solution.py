@@ -10,4 +10,4 @@
 """
 
 def isSameTree(p, q):
-    return (not p and not q) or (p and q and p.val == q.val) and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+    return (not p and not q) or (p and q and p.val == q.val) and isSameTree(p.left, q.left) and isSameTree(p.right, q.right)

@@ -24,7 +24,7 @@ Output: false
 Explanation: "raceacar" is not a palindrome.
 ```
 
-Example 2:
+Example 3:
 ```
 Input: s = " "
 Output: true

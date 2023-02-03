@@ -29,7 +29,7 @@ Input: grid = [[1]]
 Output: 4
 ```
 
-Example 2:
+Example 3:
 ```
 Input: grid = [[1,0]]
 Output: 4

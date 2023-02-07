@@ -1,6 +1,6 @@
 # Problem 541: Reverse String II
 
-[https://leetcode.com/problems/reverse-string-ii/description/](https://leetcode.com/problems/reverse-string-ii/description/)
+[https://leetcode.com/problems/reverse-string-ii/](https://leetcode.com/problems/reverse-string-ii/)
 
 ## Description
 

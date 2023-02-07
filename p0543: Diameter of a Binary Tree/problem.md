@@ -1,6 +1,6 @@
 # Problem 543: Diameter of a Binary Tree
 
-[https://leetcode.com/problems/diameter-of-binary-tree/description/](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+[https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ## Description
 

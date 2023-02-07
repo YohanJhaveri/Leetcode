@@ -9,7 +9,7 @@
 # Space Complexity - O(n)
 """
 
-def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+def diameterOfBinaryTree(root):
     maximum = [0]
 
     def maxDepth(node):

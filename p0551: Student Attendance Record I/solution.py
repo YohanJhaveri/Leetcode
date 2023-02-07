@@ -9,7 +9,7 @@
 # Space Complexity - O(1)
 """
 
-def checkRecord(self, s: str) -> bool:
+def checkRecord(s):
     n = len(s)
     a = 0
 
